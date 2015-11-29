@@ -28,6 +28,7 @@ mixpanel-py==3.1.1
 multipledispatch==0.4.8
 nbconvert==4.1.0
 nbformat==4.0.1
+networkx==1.10
 notebook==4.0.6
 numpy==1.10.1
 pandas==0.17.1
@@ -51,6 +52,7 @@ simplegeneric==0.8.1
 singledispatch==3.4.0.3
 six==1.10.0
 sseclient==0.0.8
+sympy==0.7.6.1
 terminado==0.5
 tornado==4.1
 traitlets==4.0.0
